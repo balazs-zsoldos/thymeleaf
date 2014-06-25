@@ -287,8 +287,8 @@
     </dependency>
 
     <dependency>
-      <groupId>org.unbescape</groupId>
-      <artifactId>unbescape</artifactId>
+      <groupId>org.everit.osgi.bundles</groupId>
+      <artifactId>org.everit.osgi.bundles.org.unbescape</artifactId>
       <version>1.0</version>
       <scope>compile</scope>
     </dependency>
